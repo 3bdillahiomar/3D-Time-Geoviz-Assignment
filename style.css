@@ -1,0 +1,100 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    font-size: 18px; /* Increased base font size */
+}
+
+header {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    max-width: 50%; /* Adjust as needed for the size of your logo */
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+header h1 {
+    font-size: 2.5em; /* Larger font for the main title */
+}
+
+header p {
+    margin: 10px 0;
+    font-size: 1.2em; /* Larger font for the subtitle */
+}
+
+header a, .references a {
+    color: #ffd700;
+    text-decoration: none;
+}
+
+header a:hover, .references a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+.project-overview, .references {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.project-overview h2, .references h2 {
+    font-size: 2em; /* Larger font for section titles */
+}
+
+.project-overview h3 {
+    font-size: 1.5em; /* Larger font for subsection titles */
+}
+
+.project-overview p, .references p {
+    font-size: 1.1em; /* Slightly larger font for paragraph text */
+}
+
+.references ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.references li::before {
+    content: "🔗";
+    padding-right: 8px;
+}
+
+.references li {
+    font-size: 1.1em; /* Larger font for list items */
+}
+
+footer {
+    background-color: #007bff;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
+
+footer p {
+    font-size: 1.1em; /* Larger font for footer text */
+}
+
+footer a {
+    color: #ffd700;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* End of style.css */
