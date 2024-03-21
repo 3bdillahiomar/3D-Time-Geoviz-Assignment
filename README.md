@@ -14,5 +14,7 @@ This work showcases data manipulation, spatial analysis, and advanced visualizat
 - [Related Nature Paper](https://www.nature.com/articles/s41598-017-09738-5)
 - [Movebank Dataset](https://www.movebank.org/cms/webapp?gwt_fragment=page%3Dstudies%2Cpath%3Dstudy317481491)
 
+![ABDILLAHI OSMAN LOGO](https://github.com/3bdillahiomar/3D-and-Time-Geovisualization-Assignment/assets/128916651/76ce22a6-f5fd-4c43-817a-889bf1b000dc) ![image](https://github.com/3bdillahiomar/3D-Time-Geoviz-Assignment/assets/128916651/f590c7fd-4e83-40f6-8337-48d4f483da36)
 
-![image](https://github.com/3bdillahiomar/3D-Time-Geoviz-Assignment/assets/128916651/f590c7fd-4e83-40f6-8337-48d4f483da36)
+Throughout this process, scripting automated data preparation and visualization, while manual checks ensured accuracy and coherence in the presentation. 
+
