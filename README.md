@@ -5,6 +5,7 @@ This repository contains materials for the "3D and Time Geovisualization" assign
 
 ## Content
 Included are Python scripts for processing Movebank's bird tracking CSV data, generating interactive 3D visualizations with Plotly, and accompanying documentation that provides insights into avian movement patterns.
+Additionally, the package contains HTML and CSS files for publishing the visualization outputs on the web via GitHub Pages.
 
 ## Academic Context
 This work showcases data manipulation, spatial analysis, and advanced visualization techniques within an academic framework, demonstrating practical applications of geoinformatics.
